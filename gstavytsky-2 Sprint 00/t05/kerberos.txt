@@ -1,0 +1,5 @@
+klist
+kinit gstavytsky
+kdestroy -c
+
+
